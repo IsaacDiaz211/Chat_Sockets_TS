@@ -1,0 +1,22 @@
+/target/
+/**/*.rs.bk
+
+*.exe
+*.dll
+*.dylib
+*.so
+
+*.log
+logs/
+tmp/
+temp/
+
+.env
+.env.*
+!.env.example
+
+# IDE / OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
